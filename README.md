@@ -8,7 +8,7 @@ This repository contains the **REST API**. The Angular client is in [ecotravel-f
 
 ## Project status
 
-The project was delivered at the end of the course and has not been worked on since. **Some features are incomplete**. In particular, the CO₂ estimation of itineraries was never implemented, and there are almost no automated tests.
+The project was delivered at the end of the course and has not been worked on since. **Some features are incomplete due to time constraints**. In particular, the CO₂ estimation of itineraries was never implemented, and there are almost no automated tests.
 
 ## Features
 
